@@ -3,4 +3,3 @@
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
 - Contato: pedro.gabrielsmelo@gmail.com
-# pedromelo
