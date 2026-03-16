@@ -24,16 +24,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromelo&show_icons=true&theme=tokyonight)
 
 ---
 
-## Como me encontrar
+## Como me encontrar:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:pedro.gabrielsmelo@gmail.com)
 
 ---
 
-*“Sempre aprendendo e evoluindo como desenvolvedor.”*
+*“Sempre aprendendo, desbravando e evoluindo como desenvolvedor.”*
