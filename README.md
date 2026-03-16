@@ -21,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromelo&show_icons=true&theme=tokyonight)
 ---
 ## Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedromelofake)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:pedro.gabrielsmelo@gmail.com)
 ---
 *“Sempre aprendendo e evoluindo como desenvolvedor.”*
