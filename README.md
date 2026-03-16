@@ -36,4 +36,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 
-*“Sempre aprendendo, desbravando e evoluindo como desenvolvedor.”*
+*“Sempre desbravando e evoluindo como desenvolvedor.”*
