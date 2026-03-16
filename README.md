@@ -37,3 +37,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ---
 
 *“Sempre desbravando e evoluindo como desenvolvedor.”*
+![Texto Alternativo](https://giphy.com/gifs/maya-rudolph-jamesfrancoco-120B9ojZynuKKA)
