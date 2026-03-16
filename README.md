@@ -8,6 +8,7 @@ Preparando-se para o mercado de tecnologia**
 - Interesse especial em **projetos web** e **desenvolvimento full stack**
 
 ---
+
 ## Tecnologias que estudo
 
 <div style="display: inline_block"><br>
